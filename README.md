@@ -1,5 +1,7 @@
 # SER
 Speech Emotion Recognition 
+
+
 As human beings, speech is amongst the most
 natural ways to express ourselves. We depend so much on it
 that we recognize its importance when resorting to other
